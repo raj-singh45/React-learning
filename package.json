@@ -1,0 +1,20 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "description": "\"Learning React\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "*https://github.com/raj-singh45/React-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
